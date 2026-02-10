@@ -28,9 +28,15 @@ The goal is to demonstrate not only technical understanding, but also the abilit
 
 ```text
 python-practical-exercises/
-├── 01_python_strings.ipynb
-├── 02_control_flow.ipynb
-├── 03_data_structures.ipynb
-├── 04_functions.ipynb
-├── 05_mini_challenges.ipynb
+├── 01_Python_Strings_Fundamentals_and_Practical_Exercises.ipynb
+├── 02_Python_Tuples_Fundamentals_and_Practical_Exercises.ipynb
+├── 03_Python_Lists_Fundamentals_and_Practical_Exercises.ipynb
+├── 04_Python_Sets_Fundamentals_and_Practical_Exercises.ipynb
+├── 05_Python_Dictionaries_Fundamentals_and_Practical_Exercises.ipynb
+├── 06_Python_Conditions_Fundamentals_and_Practical_Exercises.ipynb
+├── 07_Python_Loops_Fundamentals_and_Practical_Exercises.ipynb
+├── 08_Python_Functions_Fundamentals_and_Practical_Exercises.ipynb
+├── 09_Python_Classes.ipynb
+├── BONUS.ipynb
 └── README.md
+
